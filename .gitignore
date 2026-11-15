@@ -1,0 +1,12 @@
+# Ambiente
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Microdados brutos do INEP e malhas do IBGE (baixados; ficam fora do git)
+/dados/
+
+# Sistema
+.DS_Store
+*:Zone.Identifier

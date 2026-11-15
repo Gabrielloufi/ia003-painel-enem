@@ -1,0 +1,15 @@
+{
+ "N": 23343,
+ "confianca": 0.95,
+ "z": 1.9599639845400536,
+ "margem": 0.03,
+ "p_planejamento": 0.5,
+ "n0": 1067.0718946372565,
+ "n_corrigido": 1020.467281346735,
+ "n": 1021,
+ "fracao_amostral": 0.043739022405003644,
+ "semente": 20261115,
+ "gerador": "numpy.random.default_rng (PCG64), numpy 2.2.6",
+ "metodo": "amostra aleatória simples sem reposição: Generator.choice(N, size=n, replace=False) sobre o cadastro ordenado por CO_ENTIDADE",
+ "data_sorteio": "2026-11-15"
+}

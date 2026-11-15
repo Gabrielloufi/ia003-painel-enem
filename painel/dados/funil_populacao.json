@@ -1,0 +1,41 @@
+{
+ "fontes": {
+  "censo_escola": {
+   "arquivo": "Tabela_Escola_2025_V2.csv",
+   "linhas": 214192,
+   "colunas": 290
+  },
+  "censo_matricula": {
+   "arquivo": "Tabela_Matricula_2025_V2.csv",
+   "linhas": 178766,
+   "colunas": 263
+  },
+  "censo_docente": {
+   "arquivo": "Tabela_Docente_2025_V2.csv",
+   "linhas": 178772,
+   "colunas": 184
+  },
+  "enem_resultados": {
+   "arquivo": "RESULTADOS_2025.csv",
+   "linhas": 4810772,
+   "colunas": 70
+  }
+ },
+ "funil": {
+  "Escolas no cadastro do Censo 2025": 214192,
+  "Em atividade": 180540,
+  "Com matrícula no ensino médio regular": 30257,
+  "Com matrícula presencial no ensino médio": 30236,
+  "Com pelo menos 10 participantes do ENEM 2025 com as cinco notas (população)": 23343
+ },
+ "municipios": 5203,
+ "municipios_sem_poligono": [
+  {
+   "CO_MUNICIPIO": 5101837,
+   "NO_MUNICIPIO": "Boa Esperança do Norte",
+   "SG_UF": "MT",
+   "escolas": 1
+  }
+ ],
+ "participantes_enem_com_notas_na_populacao": 1254122
+}
