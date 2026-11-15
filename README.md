@@ -9,15 +9,15 @@ Escolar 2025**, ambos do INEP. A unidade de análise é a **escola**.
 
 ## Os painéis
 
-O endereço do app entra aqui depois do deploy no Streamlit Community Cloud.
+**App publicado:** <https://ufrgs-iaa003-painel-enem.streamlit.app/>
 
-| Painel | Caminho | Conteúdo |
+| Painel | Link | Conteúdo |
 |---|---|---|
-| 0. Base de dados | `/base-de-dados` | Fonte, contexto, observações e variáveis, população e unidade amostral |
-| 1. População | `/populacao` | Mapa por município, recorte por região, UF e município, resumo e distribuição de cada variável |
-| 2. Amostra | `/amostra` | Tamanho da amostra (cálculo passo a passo), sorteio da amostra aleatória simples, a mesma análise do Painel 1 com a população como referência |
-| 3a. Proporções | `/inferencia-proporcoes` | Duas hipóteses de proporção: intervalo de confiança, teste z, comparação com a população e simulação da variabilidade amostral |
-| 3b. Médias | `/inferencia-medias` | Duas hipóteses de diferença de médias: teste t de Welch, intervalos, comparação com a população e simulação |
+| 0. Base de dados | [/base-de-dados](https://ufrgs-iaa003-painel-enem.streamlit.app/base-de-dados) | Fonte, contexto, observações e variáveis, população e unidade amostral |
+| 1. População | [/populacao](https://ufrgs-iaa003-painel-enem.streamlit.app/populacao) | Mapa por município, recorte por região, UF e município, resumo e distribuição de cada variável |
+| 2. Amostra | [/amostra](https://ufrgs-iaa003-painel-enem.streamlit.app/amostra) | Tamanho da amostra (cálculo passo a passo), sorteio da amostra aleatória simples, a mesma análise do Painel 1 com a população como referência |
+| 3a. Proporções | [/inferencia-proporcoes](https://ufrgs-iaa003-painel-enem.streamlit.app/inferencia-proporcoes) | Duas hipóteses de proporção: intervalo de confiança, teste z, comparação com a população e simulação da variabilidade amostral |
+| 3b. Médias | [/inferencia-medias](https://ufrgs-iaa003-painel-enem.streamlit.app/inferencia-medias) | Duas hipóteses de diferença de médias: teste t de Welch, intervalos, comparação com a população e simulação |
 
 ## População, amostra e hipóteses
 
